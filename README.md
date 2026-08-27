@@ -1,7 +1,7 @@
 # FME ZeMe - Workshop on digital tools & data management
 <h3 align="center">October $28^{th}$ 2026</h3>
 <div align="center">
-  <img src="data/FME_ZeMe_Workshop_Logo_2025.png" width="600">
+  <img src="data/Logo.png" width="600">
 </div>
 
 ## Quick Start (Google Colab)
